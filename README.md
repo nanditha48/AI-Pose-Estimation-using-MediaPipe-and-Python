@@ -1,1 +1,1 @@
-# AI-Pose-Estimation-using-MediaPipe-and-Python
+In this project, I've created pose estimation with the help of python and mediapipe. Mediapipe is important when it comes to when facial landmarks, hand-pose detections, etc. Along with this, the project includes creating a simple rep counter.
